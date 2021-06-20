@@ -1,5 +1,5 @@
 # Covid-ChatBot
-By Siddharth and Devangi
+By Siddharth & Devangi...
 
 A Chatbot to answer to answer all your questions regarding Covid19...
 
