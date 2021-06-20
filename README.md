@@ -1,5 +1,4 @@
 # Covid-ChatBot
-  By Siddharth Mandgi & Devangi Rajput....
 
 A Chatbot to answer to answer all your questions regarding Covid19
 
