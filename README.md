@@ -1,2 +1,2 @@
 # Covid-ChatBot
-A chatbot to answer all your questions regarding Covid19.
+A Chatbot to answer to answer all your questions regarding Covid19

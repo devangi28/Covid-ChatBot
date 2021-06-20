@@ -1,0 +1,6 @@
+cd Desktop
+cd Data-Science-Universe
+cd Projects
+cd Covid-ChatBot-B
+streamlit run app.py
+
